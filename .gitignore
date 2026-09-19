@@ -1,0 +1,5 @@
+tf-env/
+plant_disease_model.keras
+plant_disease_model_backup.keras
+__pycache__/
+*.pyc

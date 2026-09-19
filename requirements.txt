@@ -6,4 +6,4 @@ matplotlib
 jupyter
 pandas
 streamlit
-
+requests
